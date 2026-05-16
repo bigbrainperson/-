@@ -1,0 +1,8 @@
+﻿name,address,yandex_url,official_site,format,is_chain,source
+Glitch Coffee,"Покровский бул., 11, стр. 4",https://yandex.ru/maps/org/glitch_coffee/225669345210,,кофейня,False,Яндекс Карты (ручной сбор)
+Jeffrey's Coffee,"Покровский бул., 11, стр. 4",https://yandex.ru/maps/org/jeffreys_coffee/170195158475,https://jeffreys.ru/,кофейня,True,Яндекс Карты (ручной сбор)
+2Grind,"Покровский бул., 11, стр. 12",https://yandex.ru/maps/org/2grind/228978124972,,кофейня,False,Яндекс Карты (ручной сбор)
+Corner Coffee,"Покровский бул., 14/6",https://yandex.ru/maps/org/corner_coffee/25052458351,https://cornercoffee.ru/,кофейня/ростер,False,Яндекс Карты (ручной сбор)
+Правда кофе,"ул. Воронцово Поле, 2",https://yandex.ru/maps/org/pravda_kofe/189116042324,https://pravdacoffee.ru/,кофе to go,True,Яндекс Карты (ручной сбор)
+Яхт-клуб Яуза,"Подколокольный пер., 16/2с1",https://yandex.ru/maps/org/yakht_klub_yauza/7683219337,,кафе/бар,False,Яндекс Карты (ручной сбор)
+Эль кафе,"Казарменный пер., 6, стр. 1",https://yandex.ru/maps/org/el_kafe/122640642852,,кафе,False,Яндекс Карты (ручной сбор)
